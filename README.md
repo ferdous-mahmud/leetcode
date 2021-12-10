@@ -13,4 +13,4 @@
 | 9   | [Palindrome Number(Brout Force)](https://leetcode.com/problems/palindrome-number/)                    | [C++](./Algorithms/Palindrome_BroutForce.cpp)    | O(n)            | O(1)             | Easy       |
 | 9   | [Palindrome Number(Reverse String)](https://leetcode.com/problems/palindrome-number/)                 | [C++](./Algorithms/PalindromeReverseString.cpp)  | O(n)            | O(1)             | Easy       |
 | 344 | [Reverse String(Brout Force)](https://leetcode.com/problems/reverse-string/)                          | [C++](./Algorithms/ReverseString_BroutForce.cpp) | O(n)            | O(n)             | Easy       |
-| 344 | [Reverse Strign(Reverse String)](https://leetcode.com/problems/reverse-string/)                       | [C++](./Algorithms/PalindromeReverseString.cpp)  | O(n)            | O(1)             | Easy       |
+| 344 | [Reverse Strign(Two pointer)](https://leetcode.com/problems/reverse-string/)                          | [C++](./Algorithms/ReverseString_TwoPointer.cpp) | O(n)            | O(1)             | Easy       |
